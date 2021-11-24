@@ -1,1 +1,1 @@
-# primeiros-passos
+## 🌎 App Ideas Collection
