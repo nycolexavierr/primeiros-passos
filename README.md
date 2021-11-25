@@ -17,17 +17,11 @@ Como saber em qual nível estou?
 
 ![image](https://user-images.githubusercontent.com/94902491/143455696-364fed0c-6374-4c1f-8c0b-9d93dd732322.png)
 
+Depois desse fluxugrama já deu pra ter uma ideia, né?
 
-
-Sabe lógica de programação
-sabe HTML
-Sabe CSS
-Sabe JavaScript
-
-
-### Iniciante
-### Intermediário
-### Avançado
+### [Iniciante]()
+### [Intermediário]()
+### [Avançado]()
 
 ### [Cursos](./front-end-cursos.md)
 ### [PDFs](./front-end-PDFs.md)
