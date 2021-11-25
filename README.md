@@ -13,42 +13,17 @@
 ![Frame 2](https://user-images.githubusercontent.com/94902491/143306250-a8a75bab-4a72-4568-9205-ca9c87dfc7c9.png)
 
 ## 📗 Súmario (do front-end)
+Como saber em qual nível estou?
 
-### [Cursos](./front-end-cursos.md)
-### [PDFs](./front-end-PDFs.md)
-### [Bootcamps](./front-end-bootcamps.md)
-### [Rede de apoio](./front-end-rede-de-apoio)
+Sabe lógica de programação
+sabe HTML
+Sabe CSS
+Sabe JavaScript
 
-![Frame 2](https://user-images.githubusercontent.com/94902491/143306250-a8a75bab-4a72-4568-9205-ca9c87dfc7c9.png)
 
-## 📗 Súmario (do back-end)
-
-### [Cursos](./front-end-cursos.md)
-### [PDFs](./front-end-PDFs.md)
-### [Bootcamps](./front-end-bootcamps.md)
-### [Rede de apoio](./front-end-rede-de-apoio)
-
-![Frame 2](https://user-images.githubusercontent.com/94902491/143306250-a8a75bab-4a72-4568-9205-ca9c87dfc7c9.png)
-
-## 📗 Súmario (do fullStack)
-
-### [Cursos](./front-end-cursos.md)
-### [PDFs](./front-end-PDFs.md)
-### [Bootcamps](./front-end-bootcamps.md)
-### [Rede de apoio](./front-end-rede-de-apoio)
-
-![Frame 2](https://user-images.githubusercontent.com/94902491/143306250-a8a75bab-4a72-4568-9205-ca9c87dfc7c9.png)
-
-## 📗 Súmario (de Ciência de dados)
-
-### [Cursos](./front-end-cursos.md)
-### [PDFs](./front-end-PDFs.md)
-### [Bootcamps](./front-end-bootcamps.md)
-### [Rede de apoio](./front-end-rede-de-apoio)
-
-![Frame 2](https://user-images.githubusercontent.com/94902491/143306250-a8a75bab-4a72-4568-9205-ca9c87dfc7c9.png)
-
-## 📗 Súmario (de cyber)
+### Iniciante
+### Intermediário
+### Avançado
 
 ### [Cursos](./front-end-cursos.md)
 ### [PDFs](./front-end-PDFs.md)
