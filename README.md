@@ -10,7 +10,7 @@
 
     ### Se encaixa em um dos requisitos? Então, Esse repositório é para você!
 
-![Frame 2](https://user-images.githubusercontent.com/94902491/143306250-a8a75bab-4a72-4568-9205-ca9c87dfc7c9.png)
+![Frame 2 (1)](https://user-images.githubusercontent.com/94902491/143465579-c4c13479-115e-41e1-9d1b-68771735132e.png)
 
 ## 📗 Súmario (do front-end)
 Antes de começar veja em qual nível esta!
