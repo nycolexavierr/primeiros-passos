@@ -13,23 +13,15 @@
 ![Frame 2](https://user-images.githubusercontent.com/94902491/143306250-a8a75bab-4a72-4568-9205-ca9c87dfc7c9.png)
 
 ## 📗 Súmario (do front-end)
-Como saber em qual nível estou?
-
+Antes de começar veja em qual nível esta!
 ![image](https://user-images.githubusercontent.com/94902491/143455696-364fed0c-6374-4c1f-8c0b-9d93dd732322.png)
 
-Depois desse fluxugrama já deu pra ter uma ideia, né?
+Já deu pra ter uma ideia, né?
 
-### [Iniciante]()
-### [Intermediário]()
-### [Avançado]()
+### [👶🏽Iniciante](./front-end/iniciante/cursos.md)
 
-### [Cursos](./front-end-cursos.md)
-### [PDFs](./front-end-PDFs.md)
-### [Bootcamps](./front-end-bootcamps.md)
-### [Rede de apoio](./front-end-rede-de-apoio)
 
 + Bônus
-
 Git e Github
 
 
