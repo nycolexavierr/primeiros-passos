@@ -15,7 +15,8 @@
 ## 📗 Súmario (do front-end)
 Como saber em qual nível estou?
 
-![image](https://user-images.githubusercontent.com/94902491/143455513-a036e465-dd85-4025-b138-cb4df77c25be.png)
+![image](https://user-images.githubusercontent.com/94902491/143455696-364fed0c-6374-4c1f-8c0b-9d93dd732322.png)
+
 
 
 Sabe lógica de programação
