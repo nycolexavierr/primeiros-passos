@@ -9,16 +9,17 @@
 - Tem dúvida sobre qual curso é melhor
 
     ### Se encaixa em um dos requisitos? Então, Esse repositório é para você!
-
-![Frame 2 (1)](https://user-images.githubusercontent.com/94902491/143465579-c4c13479-115e-41e1-9d1b-68771735132e.png)
-
-## 📗 Súmario (do front-end)
 Antes de começar veja em qual nível esta!
 ![image](https://user-images.githubusercontent.com/94902491/143455696-364fed0c-6374-4c1f-8c0b-9d93dd732322.png)
 
-Já deu pra ter uma ideia, né?
+Agora que você já sabe seu nível, vamos começar! 🏳
+![Frame 2 (1)](https://user-images.githubusercontent.com/94902491/143465579-c4c13479-115e-41e1-9d1b-68771735132e.png)
 
-### [👶🏽Iniciante](./front-end/iniciante/cursos.md)
+## 📗 Súmario do front-end
+----
+### [👶🏽 Iniciante](./front-end/iniciante/cursos.md)
+
+
 
 
 + Bônus
@@ -30,4 +31,4 @@ Git e Github
 
 Veja nesse link como (link)
 
-## ⬆️ Voltar ao topo
+### ⬆️ Voltar ao topo
