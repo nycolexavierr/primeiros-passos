@@ -1,5 +1,7 @@
 ⬅ [Voltar para o começo](../README.md)
 
+![image](https://user-images.githubusercontent.com/94902491/143682822-53f02873-d650-42bf-bafa-018eaa362294.png)
+
 [👶🏽 Iniciante da programação]()
 
 A primeira coisa que você precisa aprender é a lógica de programação, esse curso feito pelo professor Guanabara:
