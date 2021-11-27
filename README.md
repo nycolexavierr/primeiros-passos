@@ -27,8 +27,6 @@ Git e Github
 
 
 ## 📝 Quer contribuir? 
-
-
-Veja nesse link como (link)
+Ficamos feliz no seu interessante em contribuir neste respositório, clique [aqui](https://github.com/nycolexavierr/primeiros-passos/blob/main/CONTRIBUTING.md)!
 
 #### [⬆️ Voltar ao topo]()
