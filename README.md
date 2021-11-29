@@ -26,7 +26,7 @@ Agora que você já sabe seu nível, vamos começar! 🏳
 Git e Github
 
 
-## 📝 Quer contribuir? 
+## 📝 Quer contribuir com este projeto? 
 Ficamos feliz no seu interessante em contribuir neste respositório, clique [aqui](https://github.com/nycolexavierr/primeiros-passos/blob/main/CONTRIBUTING.md)!
 
 #### [⬆️ Voltar ao topo]()
