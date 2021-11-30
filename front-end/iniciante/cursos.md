@@ -4,23 +4,24 @@
 
 ## 👶🏽 Lógica de Programação
 
-### [👾 Curso de Lógica de Programação do Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
-![image](https://user-images.githubusercontent.com/94902491/144049816-eaaf1d49-3ca0-4f53-a708-ac721c32a83b.png)
----
+[👾 (Gratuito) Curso de Lógica de Programação do Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+
+
 ## 📕 HTML
 
-[👨‍💻 Curso de Introdução ao Desenvolvimento Web](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
+[👨‍💻 Curso de Introdução ao Desenvolvimento Web do Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 
----
+
 ## 🎨 CSS
-[🎇 Curso de CSS](https://www.youtube.com/watch?v=r11FflkQqJs)
 
----
+[🎇 Curso de CSS Para Completos Iniciantes](https://www.youtube.com/watch?v=r11FflkQqJs)
+
+
 ## 🧠 JavaScript
----
+
 
 ## 👨‍💻 Framework
----
+
 
 [🚀 Trilha de cursos da RocketSeat](https://app.rocketseat.com.br/discover/trails) 
 
