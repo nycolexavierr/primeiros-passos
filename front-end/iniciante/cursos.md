@@ -5,6 +5,7 @@
 ## 👶🏽 Lógica de Programação
 
 ### [👾 Curso de Lógica de Programação do Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+![image](https://user-images.githubusercontent.com/94902491/144049816-eaaf1d49-3ca0-4f53-a708-ac721c32a83b.png)
 ---
 ## 📕 HTML
 
