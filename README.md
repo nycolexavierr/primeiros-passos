@@ -20,9 +20,7 @@ Agora que você já sabe seu nível, vamos começar! 🏳
 ### [👶🏽 Iniciante](./front-end/iniciante/cursos.md)
 
 
-
-
-+ Bônus
+## Bônus!
 Git e Github
 
 
