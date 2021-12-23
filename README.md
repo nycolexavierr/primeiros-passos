@@ -2,7 +2,7 @@
 
 ![banners](https://user-images.githubusercontent.com/94902491/143292765-c054199e-1345-465f-8461-b4456e216121.png)
 
-## 👀 Esse repositório é pra quem:
+## 🤷🏽‍♀️ Esse repositório é pra quem:
 
 - Se sente perdido e não sabe por onde começar
 - Não sabe qual área de tecnologia quer estudar
